@@ -24,9 +24,9 @@ if (flutterVersionName == null) {
 
 android {
     namespace "io.abner.flutter_js_example"
-    compileSdkVersion flutter.compileSdkVersion
+    compileSdkVersion 37
     
-    ndkVersion "27.0.12077973"
+    ndkVersion "28.2.13676358"
     
   
     compileOptions {
